@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.mark.mybatis</groupId>
+    <artifactId>mybatis_demo</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>day01_eesy_01mybatis</module>
+        <module>day01_eesy_02mybatis_annotation</module>
+        <module>day01_eesy_03mybatis_dao</module>
+        <module>day01_eesy_04mybatis_design</module>
+        <module>day02_eesy_01mybatisCRUD</module>
+        <module>day02_eesy_02mybatsiDAO</module>
+        <module>day03_eesy_01datasourceAndTx</module>
+        <module>day03_eesy_02dynamicSQL</module>
+        <module>day03_eesy_03one2many</module>
+        <module>day03_eesy_04many2many</module>
+        <module>day03_eesy_05jndi</module>
+        <module>day04_eesy_01lazy</module>
+        <module>day04_eesy_02cache</module>
+        <module>day04_eesy_03annotation_mybatis</module>
+        <module>day04_eesy_04annoOne2Many</module>
+    </modules>
+
+
+</project>

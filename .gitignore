@@ -1,0 +1,16 @@
+# Project exclude paths
+/day01_eesy_01mybatis/target/
+/day01_eesy_02mybatis_annotation/target/
+/day01_eesy_03mybatis_dao/target/
+/day01_eesy_04mybatis_design/target/
+/day02_eesy_01mybatisCRUD/target/
+/day02_eesy_02mybatsiDAO/target/
+/day03_eesy_01datasourceAndTx/target/
+/day03_eesy_02dynamicSQL/target/
+/day03_eesy_03one2many/target/
+/day03_eesy_04many2many/target/
+/day03_eesy_05jndi/target/
+/day04_eesy_01lazy/target/
+/day04_eesy_02cache/target/
+/day04_eesy_03annotation_mybatis/target/
+/day04_eesy_04annoOne2Many/target/
