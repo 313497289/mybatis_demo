@@ -11,7 +11,7 @@
             <dataSource type="POOLED">
                 <!-- 配置连接数据库的4个基本信息 -->
                 <property name="driver" value="com.mysql.jdbc.Driver"/>
-                <property name="url" value="jdbc:mysql://localhost:3306/mybatis"/>
+                <property name="url" value="jdbc:mysql://localhost:3306/itheima_mybatis"/>
                 <property name="username" value="root"/>
                 <property name="password" value="root"/>
             </dataSource>

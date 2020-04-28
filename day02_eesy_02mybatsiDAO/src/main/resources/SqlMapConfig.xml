@@ -13,7 +13,7 @@
             <!--配置连接池-->
             <dataSource type="POOLED">
                 <property name="driver" value="com.mysql.jdbc.Driver"></property>
-                <property name="url" value="jdbc:mysql://localhost:3306/mybatis"></property>
+                <property name="url" value="jdbc:mysql://localhost:3306/itheima_mybatis"></property>
                 <property name="username" value="root"></property>
                 <property name="password" value="root"></property>
             </dataSource>
